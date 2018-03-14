@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9970a6319f82b5346abc0a63e0b4b13b
+timeCreated: 1513046773
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Pixel Maz
+  fontNames:
+  - Pixel Maz
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

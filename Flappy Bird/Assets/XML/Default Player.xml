@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VC>
+  <Group>
+    <Item>
+      <ID>Default Player</ID>
+      <Score>6</Score>
+      <Time>13</Time>
+    </Item>
+    <Item>
+      <ID>Default Player</ID>
+      <Score>0</Score>
+      <Time>0</Time>
+    </Item>
+  </Group>
+</VC>

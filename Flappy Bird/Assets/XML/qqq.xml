@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VC>
+  <Group>
+    <Item>
+      <ID>qqq</ID>
+      <Score>11</Score>
+      <Time>11</Time>
+    </Item>
+    <Item>
+      <ID>qqq</ID>
+      <Score>11</Score>
+      <Time>11</Time>
+    </Item>
+    <Item>
+      <ID>qqq</ID>
+      <Score>22</Score>
+      <Time>223</Time>
+    </Item>
+    <Item>
+      <ID>qqq</ID>
+      <Score>22</Score>
+      <Time>223</Time>
+    </Item>
+    <Item>
+      <ID>qqq</ID>
+      <Score>22</Score>
+      <Time>223</Time>
+    </Item>
+  </Group>
+</VC>
