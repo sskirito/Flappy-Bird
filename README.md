@@ -5,7 +5,7 @@ Flappy Bird with Unity3D
 <img src="https://github.com/sskirito/Flappy-Bird/blob/master/images/1615464048(1).jpg" height="368" width="200"/>
 
 # 游戏中
-![https://raw.githubusercontent.com/sskirito/Flappy-Bird/master/images/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20210311200316.png]
+<img src="https://github.com/sskirito/Flappy-Bird/blob/master/images/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20210311200143.png" height="368" width="200"/>
 
 # 失败界面
 ![https://raw.githubusercontent.com/sskirito/Flappy-Bird/master/images/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20210311200143.png]
